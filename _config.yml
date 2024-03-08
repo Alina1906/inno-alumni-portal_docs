@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - inno-alumni-portal_src_api_index_js.md
+  - inno-alumni-portal_src_api_sendRequest_js.md
+  - inno-alumni-portal_src_api_chart_js.md
