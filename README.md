@@ -85,4 +85,10 @@ Check out our [Demo Video](https://youtu.be/PwiZH98iqJ8) for a visual walkthroug
     npm start
     ```
 
+## Technical documentation for the codebase
+
+- [**`inno-alumni-portal/src/api/index.js`**](./inno-alumni-portal_src_api_index_js.md)
+- [**`inno-alumni-portal/src/api/sendRequest.js`**](./inno-alumni-portal_src_api_sendRequest_js.md)
+- [**`inno-alumni-portal/src/api/chart.js`**](./inno-alumni-portal_src_api_chart_js.md)
+
 Now, you can access the IU Alumni portal locally and explore its features. Feel free to contribute to the project, and if you encounter any issues, check the respective README files in the frontend and backend folders for detailed instructions.
