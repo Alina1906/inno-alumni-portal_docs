@@ -1,4 +1,4 @@
-# Technical Documentation. Sourse: inno-alumni-portal/src/api/index.js
+# Technical Documentation. Source: inno-alumni-portal/src/api/index.js
 
 ## Overview
 
