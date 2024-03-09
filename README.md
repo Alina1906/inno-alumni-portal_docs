@@ -90,5 +90,8 @@ Check out our [Demo Video](https://youtu.be/PwiZH98iqJ8) for a visual walkthroug
 - [**`inno-alumni-portal/src/api/index.js`**](./inno-alumni-portal_src_api_index_js.md)
 - [**`inno-alumni-portal/src/api/sendRequest.js`**](./inno-alumni-portal_src_api_sendRequest_js.md)
 - [**`inno-alumni-portal/src/api/chart.js`**](./inno-alumni-portal_src_api_chart_js.md)
+- [**`inno-alumni-portal/src/contexts/auth-context.js`**](./inno-alumni-portal_src_contexts_auth_context_js.md)
+- [**`inno-alumni-portal/src/guards/auth-guard.js`**](./inno-alumni-portal_src_guards_auth-guard_js.md)
+- [**`inno-alumni-portal/src/hocs/with-auth-guard.js`**](./inno-alumni-portal_src_hocs_with-auth-guard_js.md)
 
 Now, you can access the IU Alumni portal locally and explore its features. Feel free to contribute to the project, and if you encounter any issues, check the respective README files in the frontend and backend folders for detailed instructions.
